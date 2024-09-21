@@ -170,7 +170,3 @@ I will be updating this repository regularly with:
 - **Logs** of key milestones reached
 
 Feel free to follow the repository, offer suggestions, or collaborate!
-
----
-
-This more detailed breakdown provides clear visibility into what you're learning at each step. You can update progress as you complete each topic, add project links, or code snippets as you go.
