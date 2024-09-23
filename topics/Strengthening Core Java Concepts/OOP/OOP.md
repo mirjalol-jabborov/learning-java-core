@@ -27,12 +27,12 @@ OOP bilan ishlashda asosiy 4ta tamoyil (`principles`) mavjud:
 
 ## Class
 
-`Class` — tasavvur qiling, bir mushuklar bor. Har bir mushukning o'ziga xos xususiyatlari mavjud:  
+`Class` — tasavvur qilaylik, mushuklar bor. Har bir mushukning o'ziga xos xususiyatlari mavjud:  
 - rang  
 - hajm  
 - meowlashi
 
-Ushbu `Object`ning umumiy xususiyatlari va metodlarin Shablon qilib saqlash uchun classlar ishlatiladi.  
+Ushbu `Object`ning umumiy xususiyatlari va metodlarini Shablon qilib saqlash uchun classlar ishlatiladi.  
 `Class`lar `Object`ning `property` va `method`larini saqlaydi.
 
 ---
