@@ -1,4 +1,4 @@
-**Exceptions** — bu dastur bajarilishida kutilmagan yoki yoqimsiz hodisalar yuz berganda sodir bo'ladigan xatoliklar bo‘lib, ular dastur ishini to‘xtatadi yoki izdan chiqaradi. Java tilida exceptionslarni "unwanted or unexpected event" ya’ni kutilmagan yoki yoqimsiz hodisalar deb atash mumkin.
+**Exceptions** — bu dastur bajarilishida kutilmagan holatlar yuz berganda sodir bo'ladigan xatoliklar bo‘lib, ular dastur ishini to‘xtatadi (terminate qiladi). Java tilida exceptionslarni "unwanted or unexpected event" deb ham atashadi.
 
 ### Exceptionlar nima sababdan kelib chiqadi?
 Exceptionlar quyidagi holatlarda yuzaga kelishi mumkin:
